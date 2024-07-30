@@ -4,6 +4,6 @@ This is a rudimentary virtual map of IIIT Delhi implemented with the help of Uni
 This project is still in its early stages. 
 
 ### How to traverse : 
-- W and S for left and right movements
-- A and D for front and back movements
+- W and S for front and back movements
+- A and D for left and right movements
 - Q and E for rotating the perspective 
