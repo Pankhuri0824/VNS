@@ -7,3 +7,10 @@ This project is still in its early stages.
 - W and S for front and back movements
 - A and D for left and right movements
 - Q and E for rotating the perspective 
+
+
+### How to enter buildings : 
+- For selected buildings there exists an option to go to a certain floor
+- To enter a floor, locate a door like structure ( there will be a sign to enter with it)
+- Keep moving forward until you come in contact with that sign and viola !
+- You can exit the floor similarly
